@@ -1,0 +1,26 @@
+Attribute	Sequence
+Reset		\e[0m
+Bold		\e[1m
+Dim		\e[2m
+Underlined	\e[4m
+Blink		\e[5m
+Reverse		\e[7m
+Hidden		\e[8m
+Foreground	
+Black		\e[30m
+Red		\e[31m
+Green		\e[32m
+Yellow		\e[33m
+Blue		\e[34m
+Magenta		\e[35m
+Cyan		\e[36m
+Light gray	\e[37m
+Background	
+Black		\e[40m
+Red		\e[41m
+Green		\e[42m
+Yellow		\e[43m
+Blue		\e[44m
+Magenta		\e[45m
+Cyan		\e[46m
+Light gray	\e[47m
